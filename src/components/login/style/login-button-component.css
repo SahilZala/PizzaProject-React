@@ -1,0 +1,15 @@
+.login-button-component{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #CB4335;
+    border-color: #CB4335;
+    font-size: large;
+    font-weight: 600;
+}
+
+.login-button{
+    text-align: end;
+}

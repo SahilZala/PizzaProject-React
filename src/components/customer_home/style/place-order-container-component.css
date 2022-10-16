@@ -1,0 +1,15 @@
+.place-order-submit-button{
+    color: white;
+    background-color: #D68910;
+    border: #D68910;
+    
+}
+
+.final-price{
+    text-align: right;
+    padding: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #D68910;
+
+}

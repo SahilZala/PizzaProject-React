@@ -1,0 +1,22 @@
+.customer-navbar{
+    background-color: #F39C12;
+    border-radius: 5px;
+    
+}
+
+.customer-navbar .customer-navbar-brand{
+    color: aliceblue;
+    font-size: 20px;
+    font-weight:bold;
+    padding-left: 1%;
+    
+    
+}
+
+
+.customer-navbar .customer-navbar-link{
+    color: antiquewhite;
+    font-weight: 600;
+    padding-left: 10px;
+    padding-right: 10px;
+}

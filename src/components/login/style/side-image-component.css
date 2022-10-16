@@ -1,0 +1,10 @@
+.side-image-component{
+    height: 95vh;
+    
+}
+.side-image-component .image-component{
+    background-image: url("../resources/side-pizza.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+}

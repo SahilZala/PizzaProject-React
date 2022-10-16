@@ -1,0 +1,21 @@
+.customer-banner{
+    margin-top: 10px;
+    text-align: right;
+    
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-image: url("../resources/pizza-banner.jpg");
+    background-color: #F7F9F9;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 2%;
+}
+
+.customer-banner-title{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 50px;
+    color: white;
+    font-size: 60px;
+}

@@ -1,0 +1,13 @@
+.login-component-group{
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.login-component-group .login-component-control{
+ background-color: transparent;
+ border: 1px solid #CB4335;
+ padding: 15px;
+ font-size: 20px;
+ font-weight: 500;
+ width: 100%;
+}
